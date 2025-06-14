@@ -1,0 +1,4 @@
+Model,Val Accuracy (%),Training Time (s),Parameters (M),Notes
+ResNet50,50.96524953842163,11411,25.0,Best accuracy
+DenseNet121,97.81209826469421,12167,8.0,Lightweight
+MobileNetV3,27.6705265045166,2600,2.5,Fastest
