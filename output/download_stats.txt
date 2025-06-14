@@ -1,0 +1,12 @@
+Total images: 25781
+Classes: 10
+rose: 2779
+sunflower: 2346
+tulip: 2835
+dandelion: 2652
+orchid: 2821
+hibiscus: 2592
+lily: 2548
+lotus: 2702
+jasmine: 2184
+lavender: 2322
