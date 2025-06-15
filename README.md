@@ -238,14 +238,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **TensorFlow/Keras** team for the excellent deep learning framework
 - **Google Images** for providing the training data source
 - **Open Source Community** for the amazing tools and libraries
-
-## 📞 Contact
-
-- **Author**: [Your Name]
-- **Email**: [your.email@example.com]
-- **LinkedIn**: [Your LinkedIn Profile]
-- **GitHub**: [Your GitHub Profile]
-
 ---
 
 ⭐ **If you found this project helpful, please give it a star!** ⭐
